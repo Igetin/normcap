@@ -52,7 +52,7 @@ sudo apt-get install tesseract-ocr xclip python3-tk python3-pil.imagetk
 sudo pacman -S tesseract tesseract-data-eng xclip tk python-pillow
 
 # on Fedora
-sudo dnf install tesseract xclip python3-tkinter
+sudo dnf install tesseract xclip python3-tkinter tesseract-devel leptonica-devel
 ```
 
 2\. Install normcap:
